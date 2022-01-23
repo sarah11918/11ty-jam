@@ -8,3 +8,5 @@ eleventyNavigation:
 ---
 
 I am a person that writes stuff in an 11ty blog.
+
+I now have an 11ty blog to experiment with.
