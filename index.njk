@@ -6,6 +6,8 @@ eleventyNavigation:
 ---
 <p>Welcome to my home</p>
 
+<p>Let's add more to the home page on a different branch</p>
+
 {% set maxPosts = collections.posts.length | min(3) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 
